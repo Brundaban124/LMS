@@ -12,7 +12,7 @@ namespace LMS.Data
 {
     public class AuthRepository: Repository<User>, IAuthRepository
     {
-
+        // Changes has been made....
 
         public ApplicationDatabaseContext ApplicationDatabaseContext
         {
